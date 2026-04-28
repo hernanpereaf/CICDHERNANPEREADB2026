@@ -1,0 +1,78 @@
+storeId,storeRef,name,location,country,store_type,floor_area_sqm,employee_count,url
+1,store_001,Sucursal Arequipa Centro 1,Arequipa,Peru,Flagship,1551,77,http://retail.com/store/1
+2,store_002,Sucursal Cusco Centro 2,Cusco,Peru,Street,225,8,http://retail.com/store/2
+3,store_003,Sucursal Bogota Centro 3,Bogota,Colombia,Mall,404,12,http://retail.com/store/3
+4,store_004,Sucursal Medellin Centro 4,Medellin,Colombia,Outlet,1130,20,http://retail.com/store/4
+5,store_005,Sucursal Santiago Centro 5,Santiago,Chile,Flagship,1947,44,http://retail.com/store/5
+6,store_006,Sucursal Buenos Aires Centro 6,Buenos Aires,Argentina,Flagship,2649,42,http://retail.com/store/6
+7,store_007,Sucursal Sao Paulo Centro 7,Sao Paulo,Brazil,Outlet,1902,34,http://retail.com/store/7
+8,store_008,Sucursal Madrid Centro 8,Madrid,Spain,Street,103,7,http://retail.com/store/8
+9,store_009,Sucursal Miami Centro 9,Miami,USA,Outlet,2393,28,http://retail.com/store/9
+10,store_010,Sucursal Lima Centro 10,Lima,Peru,Mall,520,20,http://retail.com/store/10
+11,store_011,Sucursal Arequipa Centro 11,Arequipa,Peru,Flagship,1689,54,http://retail.com/store/11
+12,store_012,Sucursal Cusco Centro 12,Cusco,Peru,Flagship,2235,52,http://retail.com/store/12
+13,store_013,Sucursal Bogota Centro 13,Bogota,Colombia,Street,122,12,http://retail.com/store/13
+14,store_014,Sucursal Medellin Centro 14,Medellin,Colombia,Flagship,2275,35,http://retail.com/store/14
+15,store_015,Sucursal Santiago Centro 15,Santiago,Chile,Street,285,14,http://retail.com/store/15
+16,store_016,Sucursal Buenos Aires Centro 16,Buenos Aires,Argentina,Mall,371,11,http://retail.com/store/16
+17,store_017,Sucursal Sao Paulo Centro 17,Sao Paulo,Brazil,Mall,596,12,http://retail.com/store/17
+18,store_018,Sucursal Madrid Centro 18,Madrid,Spain,Mall,403,22,http://retail.com/store/18
+19,store_019,Sucursal Miami Centro 19,Miami,USA,Street,332,15,http://retail.com/store/19
+20,store_020,Sucursal Lima Centro 20,Lima,Peru,Street,183,10,http://retail.com/store/20
+21,store_021,Sucursal Arequipa Centro 21,Arequipa,Peru,Street,207,15,http://retail.com/store/21
+22,store_022,Sucursal Cusco Centro 22,Cusco,Peru,Street,136,14,http://retail.com/store/22
+23,store_023,Sucursal Bogota Centro 23,Bogota,Colombia,Mall,846,17,http://retail.com/store/23
+24,store_024,Sucursal Medellin Centro 24,Medellin,Colombia,Mall,773,22,http://retail.com/store/24
+25,store_025,Sucursal Santiago Centro 25,Santiago,Chile,Street,385,8,http://retail.com/store/25
+26,store_026,Sucursal Buenos Aires Centro 26,Buenos Aires,Argentina,Street,128,8,http://retail.com/store/26
+27,store_027,Sucursal Sao Paulo Centro 27,Sao Paulo,Brazil,Flagship,2146,55,http://retail.com/store/27
+28,store_028,Sucursal Madrid Centro 28,Madrid,Spain,Street,133,8,http://retail.com/store/28
+29,store_029,Sucursal Miami Centro 29,Miami,USA,Street,208,15,http://retail.com/store/29
+30,store_030,Sucursal Lima Centro 30,Lima,Peru,Outlet,2620,48,http://retail.com/store/30
+31,store_031,Sucursal Arequipa Centro 31,Arequipa,Peru,Outlet,1585,28,http://retail.com/store/31
+32,store_032,Sucursal Cusco Centro 32,Cusco,Peru,Mall,552,18,http://retail.com/store/32
+33,store_033,Sucursal Bogota Centro 33,Bogota,Colombia,Outlet,4677,38,http://retail.com/store/33
+34,store_034,Sucursal Medellin Centro 34,Medellin,Colombia,Outlet,2482,27,http://retail.com/store/34
+35,store_035,Sucursal Santiago Centro 35,Santiago,Chile,Mall,821,25,http://retail.com/store/35
+36,store_036,Sucursal Buenos Aires Centro 36,Buenos Aires,Argentina,Flagship,1596,37,http://retail.com/store/36
+37,store_037,Sucursal Sao Paulo Centro 37,Sao Paulo,Brazil,Mall,942,15,http://retail.com/store/37
+38,store_038,Sucursal Madrid Centro 38,Madrid,Spain,Outlet,3442,22,http://retail.com/store/38
+39,store_039,Sucursal Miami Centro 39,Miami,USA,Outlet,2563,39,http://retail.com/store/39
+40,store_040,Sucursal Lima Centro 40,Lima,Peru,Outlet,3167,28,http://retail.com/store/40
+41,store_041,Sucursal Arequipa Centro 41,Arequipa,Peru,Flagship,2893,76,http://retail.com/store/41
+42,store_042,Sucursal Cusco Centro 42,Cusco,Peru,Flagship,2896,64,http://retail.com/store/42
+43,store_043,Sucursal Bogota Centro 43,Bogota,Colombia,Street,274,6,http://retail.com/store/43
+44,store_044,Sucursal Medellin Centro 44,Medellin,Colombia,Street,322,7,http://retail.com/store/44
+45,store_045,Sucursal Santiago Centro 45,Santiago,Chile,Outlet,1013,50,http://retail.com/store/45
+46,store_046,Sucursal Buenos Aires Centro 46,Buenos Aires,Argentina,Street,356,7,http://retail.com/store/46
+47,store_047,Sucursal Sao Paulo Centro 47,Sao Paulo,Brazil,Flagship,2780,49,http://retail.com/store/47
+48,store_048,Sucursal Madrid Centro 48,Madrid,Spain,Mall,456,21,http://retail.com/store/48
+49,store_049,Sucursal Miami Centro 49,Miami,USA,Mall,852,10,http://retail.com/store/49
+50,store_050,Sucursal Lima Centro 50,Lima,Peru,Street,350,5,http://retail.com/store/50
+51,store_051,Sucursal Arequipa Centro 51,Arequipa,Peru,Flagship,2243,49,http://retail.com/store/51
+52,store_052,Sucursal Cusco Centro 52,Cusco,Peru,Mall,359,17,http://retail.com/store/52
+53,store_053,Sucursal Bogota Centro 53,Bogota,Colombia,Flagship,1675,76,http://retail.com/store/53
+54,store_054,Sucursal Medellin Centro 54,Medellin,Colombia,Outlet,4342,22,http://retail.com/store/54
+55,store_055,Sucursal Santiago Centro 55,Santiago,Chile,Mall,431,25,http://retail.com/store/55
+56,store_056,Sucursal Buenos Aires Centro 56,Buenos Aires,Argentina,Mall,571,23,http://retail.com/store/56
+57,store_057,Sucursal Sao Paulo Centro 57,Sao Paulo,Brazil,Mall,852,16,http://retail.com/store/57
+58,store_058,Sucursal Madrid Centro 58,Madrid,Spain,Street,304,15,http://retail.com/store/58
+59,store_059,Sucursal Miami Centro 59,Miami,USA,Street,324,13,http://retail.com/store/59
+60,store_060,Sucursal Lima Centro 60,Lima,Peru,Outlet,1495,27,http://retail.com/store/60
+61,store_061,Sucursal Arequipa Centro 61,Arequipa,Peru,Mall,365,20,http://retail.com/store/61
+62,store_062,Sucursal Cusco Centro 62,Cusco,Peru,Flagship,2704,65,http://retail.com/store/62
+63,store_063,Sucursal Bogota Centro 63,Bogota,Colombia,Mall,902,17,http://retail.com/store/63
+64,store_064,Sucursal Medellin Centro 64,Medellin,Colombia,Flagship,1645,75,http://retail.com/store/64
+65,store_065,Sucursal Santiago Centro 65,Santiago,Chile,Flagship,1968,34,http://retail.com/store/65
+66,store_066,Sucursal Buenos Aires Centro 66,Buenos Aires,Argentina,Flagship,2176,34,http://retail.com/store/66
+67,store_067,Sucursal Sao Paulo Centro 67,Sao Paulo,Brazil,Mall,585,25,http://retail.com/store/67
+68,store_068,Sucursal Madrid Centro 68,Madrid,Spain,Mall,852,14,http://retail.com/store/68
+69,store_069,Sucursal Miami Centro 69,Miami,USA,Outlet,1995,45,http://retail.com/store/69
+70,store_070,Sucursal Lima Centro 70,Lima,Peru,Outlet,4307,33,http://retail.com/store/70
+71,store_071,Sucursal Arequipa Centro 71,Arequipa,Peru,Mall,396,13,http://retail.com/store/71
+72,store_072,Sucursal Cusco Centro 72,Cusco,Peru,Outlet,2451,33,http://retail.com/store/72
+73,store_073,Sucursal Bogota Centro 73,Bogota,Colombia,Outlet,2912,47,http://retail.com/store/73
+74,store_074,Sucursal Medellin Centro 74,Medellin,Colombia,Flagship,2879,71,http://retail.com/store/74
+75,store_075,Sucursal Santiago Centro 75,Santiago,Chile,Flagship,1624,55,http://retail.com/store/75
+76,store_076,Sucursal Buenos Aires Centro 76,Buenos Aires,Argentina,Street,155,8,http://retail.com/store/76
+77,store_077,Sucursal Sao Paulo Centro 77,Sao Paulo,Brazil,Mall,494,24,http://retail.com/store/77
