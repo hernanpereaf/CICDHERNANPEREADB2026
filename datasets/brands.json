@@ -1,0 +1,72 @@
+[
+  {
+    "brandId": 1,
+    "brandRef": "apple",
+    "name": "Apple",
+    "originCountry": "Global",
+    "url": "http://apple.com"
+  },
+  {
+    "brandId": 2,
+    "brandRef": "sony",
+    "name": "Sony",
+    "originCountry": "Global",
+    "url": "http://sony.com"
+  },
+  {
+    "brandId": 3,
+    "brandRef": "lg",
+    "name": "LG",
+    "originCountry": "Global",
+    "url": "http://lg.com"
+  },
+  {
+    "brandId": 4,
+    "brandRef": "huawei",
+    "name": "Huawei",
+    "originCountry": "Global",
+    "url": "http://huawei.com"
+  },
+  {
+    "brandId": 5,
+    "brandRef": "xiaomi",
+    "name": "Xiaomi",
+    "originCountry": "Global",
+    "url": "http://xiaomi.com"
+  },
+  {
+    "brandId": 6,
+    "brandRef": "motorola",
+    "name": "Motorola",
+    "originCountry": "Global",
+    "url": "http://motorola.com"
+  },
+  {
+    "brandId": 7,
+    "brandRef": "nokia",
+    "name": "Nokia",
+    "originCountry": "Global",
+    "url": "http://nokia.com"
+  },
+  {
+    "brandId": 8,
+    "brandRef": "lenovo",
+    "name": "Lenovo",
+    "originCountry": "Global",
+    "url": "http://lenovo.com"
+  },
+  {
+    "brandId": 9,
+    "brandRef": "asus",
+    "name": "Asus",
+    "originCountry": "Global",
+    "url": "http://asus.com"
+  },
+  {
+    "brandId": 10,
+    "brandRef": "samsung",
+    "name": "Samsung",
+    "originCountry": "Global",
+    "url": "http://samsung.com"
+  }
+]

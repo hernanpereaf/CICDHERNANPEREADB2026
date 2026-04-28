@@ -1,4 +1,64 @@
 {
+  "datasets": [
+    {
+      "name": "305a94dd",
+      "displayName": "golden_sales_partitioned",
+      "config": {
+        "version": "1.1",
+        "source": "ventas.golden.golden_sales_partitioned",
+        "dimensions": [
+          {
+            "name": "sale_year",
+            "expr": "source.sale_year",
+            "displayName": "Sale Year"
+          },
+          {
+            "name": "product_name",
+            "expr": "source.product_name",
+            "displayName": "Product Name"
+          },
+          {
+            "name": "cantidad_productos_vendidos",
+            "expr": "source.cantidad_productos_vendidos",
+            "displayName": "Cantidad Productos Vendidos"
+          },
+          {
+            "name": "max_sale_amount",
+            "expr": "source.max_sale_amount",
+            "displayName": "Max Sale Amount"
+          },
+          {
+            "name": "min_sale_amount",
+            "expr": "source.min_sale_amount",
+            "displayName": "Min Sale Amount"
+          },
+          {
+            "name": "country",
+            "expr": "source.country",
+            "displayName": "Country"
+          },
+          {
+            "name": "sale_type",
+            "expr": "source.sale_type",
+            "displayName": "Sale Type"
+          },
+          {
+            "name": "high_efficiency",
+            "expr": "source.high_efficiency",
+            "displayName": "High Efficiency"
+          }
+        ],
+        "measures": [
+          {
+            "name": "count",
+            "expr": "COUNT(*)",
+            "comment": "Represents the total number of rows in the dataset. Use this measure to count all",
+            "displayName": "Count"
+          }
+        ]
+      }
+    }
+  ],
   "pages": [
     {
       "name": "dd4a270d",
